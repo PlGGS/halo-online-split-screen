@@ -1,0 +1,41 @@
+C:\Users\Blake Boris\AppData\Local\Temporary Projects\Halo Online Splitscreen\bin\Debug\Halo Online Splitscreen.exe.config
+C:\Users\Blake Boris\AppData\Local\Temporary Projects\Halo Online Splitscreen\bin\Debug\Halo Online Splitscreen.exe
+C:\Users\Blake Boris\AppData\Local\Temporary Projects\Halo Online Splitscreen\bin\Debug\Halo Online Splitscreen.pdb
+C:\Users\Blake Boris\AppData\Local\Temporary Projects\Halo Online Splitscreen\obj\Debug\Halo Online Splitscreen.csprojResolveAssemblyReference.cache
+C:\Users\Blake Boris\AppData\Local\Temporary Projects\Halo Online Splitscreen\obj\Debug\Halo_Online_Splitscreen.Form1.resources
+C:\Users\Blake Boris\AppData\Local\Temporary Projects\Halo Online Splitscreen\obj\Debug\Halo_Online_Splitscreen.Properties.Resources.resources
+C:\Users\Blake Boris\AppData\Local\Temporary Projects\Halo Online Splitscreen\obj\Debug\Halo Online Splitscreen.csproj.GenerateResource.Cache
+C:\Users\Blake Boris\AppData\Local\Temporary Projects\Halo Online Splitscreen\obj\Debug\Halo Online Splitscreen.exe
+C:\Users\Blake Boris\AppData\Local\Temporary Projects\Halo Online Splitscreen\obj\Debug\Halo Online Splitscreen.pdb
+D:\Halo Online Splitscreen\Halo Online Splitscreen\bin\Debug\Halo Online Splitscreen.exe.config
+D:\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo Online Splitscreen.csproj.ResolveComReference.cache
+D:\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo Online Splitscreen.exe
+D:\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo Online Splitscreen.pdb
+D:\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo Online Splitscreen.csprojResolveAssemblyReference.cache
+D:\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo_Online_Splitscreen.frmInstall.resources
+D:\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo_Online_Splitscreen.frmMain.resources
+D:\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo_Online_Splitscreen.frmProfiles.resources
+D:\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo_Online_Splitscreen.Properties.Resources.resources
+D:\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo Online Splitscreen.csproj.GenerateResource.Cache
+D:\Halo Online Splitscreen\Halo Online Splitscreen\bin\Debug\Halo Online Splitscreen.exe
+D:\Halo Online Splitscreen\Halo Online Splitscreen\bin\Debug\Halo Online Splitscreen.pdb
+C:\Users\Blake Boris\Desktop\Coding\.Net Development\Halo Online Splitscreen\Halo Online Splitscreen\bin\Debug\Resources\logo.ico
+C:\Users\Blake Boris\Desktop\Coding\.Net Development\Halo Online Splitscreen\Halo Online Splitscreen\bin\Debug\Halo Online Splitscreen.exe.config
+C:\Users\Blake Boris\Desktop\Coding\.Net Development\Halo Online Splitscreen\Halo Online Splitscreen\bin\Debug\Halo Online Splitscreen.exe
+C:\Users\Blake Boris\Desktop\Coding\.Net Development\Halo Online Splitscreen\Halo Online Splitscreen\bin\Debug\Halo Online Splitscreen.pdb
+C:\Users\Blake Boris\Desktop\Coding\.Net Development\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo Online Splitscreen.csprojResolveAssemblyReference.cache
+C:\Users\Blake Boris\Desktop\Coding\.Net Development\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Blake Boris\Desktop\Coding\.Net Development\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo Online Splitscreen.csproj.ResolveComReference.cache
+C:\Users\Blake Boris\Desktop\Coding\.Net Development\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo_Online_Splitscreen.frmMain.resources
+C:\Users\Blake Boris\Desktop\Coding\.Net Development\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo_Online_Splitscreen.frmProfiles.resources
+C:\Users\Blake Boris\Desktop\Coding\.Net Development\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo_Online_Splitscreen.Properties.Resources.resources
+C:\Users\Blake Boris\Desktop\Coding\.Net Development\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo Online Splitscreen.csproj.GenerateResource.Cache
+C:\Users\Blake Boris\Desktop\Coding\.Net Development\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo Online Splitscreen.exe
+C:\Users\Blake Boris\Desktop\Coding\.Net Development\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo Online Splitscreen.pdb
+C:\Users\Blake Boris\Desktop\HO Editing\HOSS\Resources\logo.ico
+C:\Users\Blake Boris\Desktop\HO Editing\HOSS\Halo Online Splitscreen.exe.config
+C:\Users\Blake Boris\Desktop\HO Editing\HOSS\Halo Online Splitscreen.exe
+C:\Users\Blake Boris\Desktop\HO Editing\HOSS\Halo Online Splitscreen.pdb
+C:\Users\Blake Boris\Desktop\Coding\.Net Development\Halo Online Splitscreen\Halo Online Splitscreen\obj\Debug\Halo_Online_Splitscreen.frmLoading.resources
+C:\Users\Blake Boris\Desktop\HO Editing\HOSS\Halo Online Split Screen.exe.config

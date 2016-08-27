@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Halo Online Split Screen.exe" version="0.2.1.4" publicKeyToken="e0a7d8c12d8715e0" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Resources\logo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Halo Online Split Screen" version="0.2.1.4" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Halo Online Split Screen.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Halo Online Split Screen.exe" size="3584504">
+      <assemblyIdentity name="Halo Online Split Screen" version="0.2.1.4" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>NNvtl9vwrYYjfxiJPVg55A4Cl6zxi7zr6WIsBJ3FNaE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Halo Online Split Screen.exe.config" size="8614">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>p3lJd6DkVRx2wkzxVzqI+/Y7TYdEdiNpZ3TLE9wLTdg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\logo.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9zUPByg4DhOocvXDD9IbSIDbmAhfXXrF3/DWKTvDP6U=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=BLAKE-DESKTOP\Blake Boris" issuerKeyHash="9b6e5fb606f6b308e14315c4b1312a2461d7136d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>uMjMg43PKwJVPrDC4b/e8YSrpC1m+B6+W3oIz8gNztM=</DigestValue></Reference></SignedInfo><SignatureValue>tDU2JArpjrzyjg1FK6OcM4uwRr92G/IUgtjOZax2c2gF7B6rrThNTuVYcpigprP6C7pgYswj8cMYQoibu7WQGAI6yqll6i46VfMivSNarRaqYXauwoCnpdLhybTt6nto/0BRT2lZqKPXg21vz+OdlhUU78sFpa7fAyzQtX+xRXE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yrdnjsKKXhVmCUvws/p2gdK1WrDLifI8+aOIP9IN98LBfL/jOYa+fkaoCI2+ANCgZhKpP8Ex45aKvC9oTXkjcln9JSEX5JqVocnLNUm+g0xHsLgS/BtvA9+2JrSEYnddZ3XCySCkZoibSa0Yq76+9BVuSmQuNEr/CL2OJaCkt0U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d3ce0dc8cf087a5bbe1ef8662da4ab84f1debfe1c2b03e55022bcf8d83ccc8b8" Description="" Url=""><as:assemblyIdentity name="Halo Online Split Screen.exe" version="0.2.1.4" publicKeyToken="e0a7d8c12d8715e0" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=BLAKE-DESKTOP\Blake Boris</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>jwaItu57YLjIxwTEivJX6YPo4LfEN2z0782lHw3F8ic=</DigestValue></Reference></SignedInfo><SignatureValue>UDSo4ncxVA3jh3jvrJ5X25ohYc/x/HIVY0D7aQS3ElYok333qufN/8cef7d6cqGRGWChDKjrNEpWEq6NNqmyr5OYJJ4EHEyTQs6OCgoVPkn0LJOiGqsPag0N0CTdTsHWzJWJmGek6jtiUjhwvZBqeYFk3f0lAhjVHXN4cUIvZD8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yrdnjsKKXhVmCUvws/p2gdK1WrDLifI8+aOIP9IN98LBfL/jOYa+fkaoCI2+ANCgZhKpP8Ex45aKvC9oTXkjcln9JSEX5JqVocnLNUm+g0xHsLgS/BtvA9+2JrSEYnddZ3XCySCkZoibSa0Yq76+9BVuSmQuNEr/CL2OJaCkt0U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB/TCCAWagAwIBAgIQJPiol159rrdMDQB3aAmsADANBgkqhkiG9w0BAQsFADA9MTswOQYDVQQDHjIAQgBMAEEASwBFAC0ARABFAFMASwBUAE8AUABcAEIAbABhAGsAZQAgAEIAbwByAGkAczAeFw0xNjA4MjIwMjM2MjFaFw0xNzA4MjIwODM2MjFaMD0xOzA5BgNVBAMeMgBCAEwAQQBLAEUALQBEAEUAUwBLAFQATwBQAFwAQgBsAGEAawBlACAAQgBvAHIAaQBzMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDKt2eOwopeFWYJS/Cz+naB0rVasMuJ8jz5o4g/0g33wsF8v+M5hr5+RqgIjb4A0KBmEqk/wTHjloq8L2hNeSNyWf0lIRfkmpWhycs1Sb6DTEewuBL8G28D37YmtIRid11ndcLJIKRmiJtJrRirvr70FW5KZC40Sv8IvY4loKS3RQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBACIZxnEYBdMdUJ0k2DFW0Dj/Zd97GJ+wkudO+8Mjh4RuVvbGNL9nDZA3bpFrwfzLP4kpU0N7NCsgRi1X9cPRzlseb9Fwdm4sezSlEkgpGV67SS5qEobAAIy0xz8RT+3Nt99WfI01si9QI0YiEf1WkPHvKaJkYudxkacptcE1MBji</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
